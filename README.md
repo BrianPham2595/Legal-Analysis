@@ -6,21 +6,32 @@ This repository contains reports and analyses that focus on legal and ethical as
 
 ## Table of Contents
 
-- [Task 1](./Task1/Task1-Report.docx)
-- [Task 2: Ethical Issues and Mitigation Strategies in Cybersecurity at TechFite](./Techfite%20Report%202.docx)
+- [Report 1: Legal Foundations in Cybersecurity at TechFite](Legal%20Analysis%202.docx)
+- [Report 2: Ethical Issues and Mitigation Strategies in Cybersecurity at TechFite](./Techfite%20Report%202.docx)
 
 
 ## Task Summaries
 
-### Task 1
+### Report 1 Legal Foundations in Cybersecurity at TechFite
 
-*Description to be added*
+ 
+#### Description
 
-### Task 2: Ethical Issues and Mitigation Strategies in Cybersecurity at TechFite
+This task focuses on the legal implications of cybersecurity challenges facing TechFite. We examine a range of laws such as the Computer Fraud and Abuse Act and the Electronic Communications Privacy Act, identifying how they relate to the criminal activities described. The report further explores the issue of negligence, discussing laws and regulations that could justify legal action against the company. Instances where a "duty of due care" was lacking are also highlighted. Lastly, we delve into the relevance of the Sarbanes-Oxley Act to TechFite.
+
+#### Key Points
+
+- **Computer Fraud and Abuse Act**: Examines how this act relates to the criminal activities described in the case study.
+- **Electronic Communications Privacy Act**: Discusses its relevance to the criminal activities at TechFite.
+- **Negligence Laws**: Explores three laws or regulations that justify legal action based on negligence in the case study.
+- **Duty of Due Care**: Highlights two instances where duty of due care was lacking.
+- **Sarbanes-Oxley Act**: Describes its application to TechFite's situation.
+
+### Report 2: Ethical Issues and Mitigation Strategies in Cybersecurity at TechFite
 
 #### Description
 
-This task focuses on identifying and addressing ethical issues related to cybersecurity at TechFite. The report delves into guidelines and standards that should be applied to information security, behaviors that foster unethical practices, and factors that led to lax ethical behavior within the company.
+This report focuses on identifying and addressing ethical issues related to cybersecurity at TechFite. The report delves into guidelines and standards that should be applied to information security, behaviors that foster unethical practices, and factors that led to lax ethical behavior within the company.
 
 #### Key Points
 
