@@ -6,7 +6,7 @@ This repository contains reports and analyses that focus on legal and ethical as
 
 ## Table of Contents
 
-- [Report 1: Legal Foundations in Cybersecurity at TechFite](./Legal%20Analysis%202.docx)
+- [Report 1: Legal Foundations in Cybersecurity at TechFite](./Legal%20Analysis.docx)
 - [Report 2: Ethical Issues and Mitigation Strategies in Cybersecurity at TechFite](./Techfite%20Report%202.docx)
 
 
